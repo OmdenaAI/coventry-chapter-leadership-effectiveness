@@ -11,7 +11,7 @@ Note : Please Follow the below guidelines to create task folders
 
 | Task No| Task Name | Details |
 |-|-|-|
-|1|         |         |
+|1|Twitter Users Information Collection| Collecting Twitter user information (name, bio, profile url, location, website) that has a certain keywords in their bio and have # followers greater than 10000|
 |2|         |         |
 |3|         |         |
 |4|         |         |
