@@ -2,7 +2,7 @@
 Use this Repository as a template for creating Local Chapter Repositories
 
 
-**#Predicting Leadership effectiveness on Twitter, the role of gender and language use
+Predicting Leadership effectiveness on Twitter, the role of gender and language use
 
 
 The repository consists of 
